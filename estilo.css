@@ -1,0 +1,509 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Pacifico&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Jost:wght@300&family=Pacifico&family=Secular+One&display=swap');
+body {
+   background-color: rgb(25, 25, 57);
+   
+   
+}
+
+
+main{
+   width: 370px;
+   margin: auto;
+   border: solid;
+   border-color: rgb(0, 0, 0);
+   border-radius: 10px;
+   
+   
+}
+
+h1{
+    font-family: 'Acme', sans-serif;
+}
+h2{
+    font-family: 'Acme', sans-serif;
+}
+h3{
+    font-family: 'Acme', sans-serif;
+    margin-left: 100px;
+}
+
+
+div.titulo{
+    
+}
+
+img.vencedor{
+    width: 250px;
+    margin-left: 70px;
+}
+    
+
+div#cabeca {
+    border-style: none;
+    background-color: black;
+    color: white;
+    z-index: 1;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+    
+    
+    
+    
+}
+
+img#importante {
+    width: 40px; 
+    float: left;
+    
+}
+h1#primeiro {
+color: white;
+text-align: center;
+font-size: 25px;
+margin-top: 2px;
+box-shadow: 8px 8px  10px rgba(255, 255, 255, 0.856);
+border-style: ;
+margin: 0px 15px 0px 15px;
+border-width: thin;
+
+
+    
+}
+
+h2#segundo {
+    font-size: 15px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    }
+
+h2.atencao1{
+    color: red;
+    font-size: 50px;
+    border-width: 5px;
+    border-style: double;
+    width: 210px;
+    margin-left: 60px;
+    padding: 5px 5px 5px 5px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px rgb(247, 2, 2), -5px -5px 5px red;
+    
+}
+
+
+p.aviso {
+    text-align: justify;
+    position: relative;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    bottom: 5px;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -10px;
+    border-style: ;
+    border-color: ;
+    margin: 50px 15px 20px 15px;
+    border-width: 0.4px;
+    border-radius: 10px;
+    font-family: 'Secular One', sans-serif;
+    background-color: rgb(250, 235, 215);
+    color: black;
+    box-shadow: 5px 5px 10px white, -5px -5px 5px white;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+section#agradecimentos{
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Pacifico', cursive;
+    color: rgb(25, 25, 57);
+        
+}
+
+section#agradecimentos p{
+    position: relative;
+    bottom: 50px;
+    
+}
+
+.assinatura{
+    position: relative;
+    top: 40px;
+    right: 110px;
+    color: black;
+
+}
+
+img#adam {
+    width: 185px;
+    margin-top: ;
+    float: left; 
+    display: block;
+    padding-top: 50px;
+    
+}
+
+section#beneficios{
+    background-color:rgb(25, 25, 57);
+    color:  rgb(25, 25, 57);
+    font-family: 'Secular One', sans-serif;
+    margin-top: -18px;
+}
+
+
+#beneficios p{
+    
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 13px;
+    border-radius: 20px;  
+    background-color: #f1ba16;
+    box-shadow: 10px 10px  rgb(15, 15, 27), -3px -3px 5px #f1ba16;
+    margin-bottom: 20px;
+    
+}
+
+#beneficios h2{
+    margin-left: 45px;
+    background-color: #f1ba16;
+    margin-right: 50px;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+ #beneficios p.one{
+    border-style: none;
+    font-size: 12px;  
+    text-align: justify;
+    
+ }
+
+ p.one img{
+    float: left;
+ }
+
+ .question{
+    
+    box-shadow: -10px -5px 5px rgb(83, 75, 75);
+    
+ }
+ 
+ #beneficios img{
+    display: block;
+    width: 70px;
+    margin: auto;
+    
+ }
+
+
+section#terceira{
+    color: rgb(25, 25, 57);
+    background-color: white;
+    font-family: 'Secular One', sans-serif; 
+}
+
+section#terceira img{
+    width: 250px;
+    position: relative;
+    left: 50px;
+    
+}
+
+
+#terceira p{
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+    background-color: beige;
+    color:rgb(25, 25, 57);
+    margin-left: 10px;
+    margin-right: 10px ;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(81, 81, 88),-5px -5px 5px rgb(81, 81, 88);
+    
+    
+}
+#terceira h2{
+    margin-left: 65px;
+}
+
+#terceira div.foryou img.foryou-2{
+    width: 60px;
+    
+} 
+
+
+
+#blue-2{
+    background-color: rgb(25, 25, 57);
+    color: #f1ba16;
+    padding-top: 5px;
+    
+}
+
+#blue-2 p{
+    position: relative;
+    left: 20px;
+    box-shadow: 5px 5px rgb(3, 3, 3);
+    width: 280px;
+}
+
+section#blue-2 img{
+    width: 320px;
+    margin-top: 8px;
+    margin-left: -25px;
+    margin-right: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px rgb(3, 3, 3), -3px -3px 5px rgb(255, 255, 255);
+}
+
+section#blue-2 h4{
+    margin-bottom: 1px;
+}
+
+#blue-2 h4{
+    margin-left: 100px;
+}
+
+h2.atencao{
+    color: red;
+    border-style: double;
+    width: 100px; 
+    position: relative;
+    left: 90px;
+    padding: 10px 10px 10px 10px;
+    top: 15px;
+    box-shadow: 5px 5px 5px red;
+    
+
+}
+
+section#oferta img{
+    position: relative;
+    width: 300px;
+    bottom: 80px;
+    
+   
+}
+p.oferta-exclusiva{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 40px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    box-shadow: 3px 3px 2px rgb(0, 0, 0), -3px -3px 2px rgb(0, 0, 0);
+}
+
+p.oferta-exclusiva u{
+    color: red;
+}
+
+p.clique{
+    text-align: center;
+    margin-bottom: 2;
+    bottom: 80px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    position: relative;
+    margin-top: 8px;
+    background-color:rgb(25, 25, 57);
+    color: #f1ba16;
+    border-radius: 5px;
+    box-shadow: 5px gray;
+
+}
+
+p.valor{
+    text-decoration: line-through;
+    color: red;
+    font-size: 30px;
+    
+    margin-right: 200px;
+    margin-left: 50px;
+    position: relative;
+    bottom: 70px;
+    left: 70px;
+    
+   
+}
+
+p.valor-parcela{
+    color: darkblue;
+    margin-left: 40px;
+    position: relative;
+    bottom: 20px;
+    
+    font-size: 40px;
+    bottom: 80px;
+    
+    
+  
+}
+p.valor-parcela b{
+    font-size: 35px;
+    position: relative;
+    left: 5px;
+    font-size: 70px;
+    top: 20x;
+
+}
+
+p.a-vista{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    right: 5px;
+    
+    font-size: 14px;
+}
+
+button{
+    background-color: #f1ba16;
+    color: darkblue;
+    height: 70px;
+    box-shadow: 5px 5px 3px rgb(0, 0, 0), -5px -5px 8px rgb(0, 0, 0);
+    border-style: solid;
+    border-color: darkblue;
+    border-radius: 50px;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 10px;
+    position: relative;
+    bottom: 90px;
+    animation: pulsante 1.5s alternate infinite;
+   
+}
+
+button p{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    padding: 10px 10px 10px 10px;
+    font-family: 'Acme', sans-serif;
+    
+    
+}
+
+section#oferta {
+    
+    
+    
+    margin: 25px 25px 10px 25px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Acme', sans-serif;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0), -5px -5px 5px black;
+    
+
+}
+
+#oferta h3{
+    
+    margin-right: 8px;
+    padding: 2px 5px 5px 5px ;
+    margin-bottom: 130px;
+    margin-top: -40px;
+    position: relative;
+    right: 50px;
+    text-align: center;
+    font-size: 25px;
+    background-color: #f1ba16;
+    color:rgb(25, 25, 57);
+    box-shadow: 5px 5px 5px rgb(53, 53, 63), -5px -5px 5px rgb(53, 53, 63);
+    border-radius: 8px;
+}
+
+#oferta h3.digimon{
+    width: 290px;
+    position: relative;
+    right: 90px;
+    margin-top: 20px;
+    font-size: 40px;
+    padding-top: 10px;
+    color: #f1ba16;
+    background-color: rgb(25, 25, 57);
+    
+    
+    
+}
+
+#oferta img.box{
+   border-radius: 10px;
+   position: relative;
+   
+   width: 250px;
+   margin-top: 80px;
+   margin-bottom: -60px;
+   background-color: #f1ba16;
+   margin-top: 100px;
+   border-color: aliceblue;
+   box-shadow: 7px 7px 20px #f1ba16,-7px -7px 20px #f1ba16;
+
+   
+   
+    
+    
+}
+
+
+a {
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+footer{
+    background-color: rgb(25, 25, 57);
+    text-decoration: line-through;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 80px;
+
+}
+
+@keyframes pulsante {
+    0%{
+        transform: scale(1)
+    }
+    25%{
+        transform: scale(1.1);
+    }
+    50% {
+        transform: scale(0.9);
+    }
+    75%{
+        transform: scale(1.05);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
